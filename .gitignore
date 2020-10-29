@@ -127,9 +127,9 @@ dmypy.json
 /.idea/
 *.gz
 /命名实体识别/.idea/
-/饭店流量预测作业/data_set/submission_processing.csv
-/饭店流量预测作业/data_set/sub_w_weather.csv
-/饭店流量预测作业/data_set/data_w_weather_fill0.csv
-/饭店流量预测作业/data_set/data_processing.csv
+/store_passenger_flow_forecast/data_set/submission_processing.csv
+/store_passenger_flow_forecast/data_set/sub_w_weather.csv
+/store_passenger_flow_forecast/data_set/data_w_weather_fill0.csv
+/store_passenger_flow_forecast/data_set/data_processing.csv
 /电费敏感用户预测/rawdata/
 /电费敏感用户预测/myfeatures/
